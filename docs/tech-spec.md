@@ -66,7 +66,8 @@ Guest state is created and used only with consent. When a guest logs in, their g
 
 ## 4. Architecture
 
-![Architecture diagram](architecture/architecture.png)
+<img width="7068" height="8192" alt="Cloud Management to Edge-2026-10-10-103023" src="https://github.com/user-attachments/assets/91ecd9d2-9c89-4984-8bff-8eccece06431" />
+
 
 ```text
  Control panel (Next.js)
